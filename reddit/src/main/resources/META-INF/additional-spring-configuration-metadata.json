@@ -1,0 +1,12 @@
+{"properties": [{
+  "name": "notification.email.subject",
+  "type": "java.lang.String"
+},
+{
+"name": "notification.email.body",
+"type" : "java.lang.String"
+},
+{
+"name":"account.activation.url",
+"type":"java.lang.String"
+}]}
